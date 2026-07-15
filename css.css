@@ -35,10 +35,17 @@ footer {
     background-color: rgb(113, 43, 226);
     color: rgb(240, 248, 255);
     font-family: "Fredericka the Great", serif;
-    height: 260px;
+    height: 140px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-p{color: rgb(157, 100, 255);}
+
+p {
+    color: rgb(57, 13, 134);
+}
+
+h2 {
+    color: #170052;
+}
