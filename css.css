@@ -9,7 +9,7 @@ header {
     height: 260px;
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
@@ -43,7 +43,7 @@ footer {
 }
 
 p {
-    color: rgb(57, 13, 134);
+    color: rgb(48, 9, 114);
 }
 
 h2 {
