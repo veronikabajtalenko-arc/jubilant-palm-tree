@@ -1,4 +1,4 @@
-function toggleAswer(id){
+function toggleAnswer(id){
 
 
 const answer = document.getElementById(id);
