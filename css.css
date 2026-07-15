@@ -5,7 +5,8 @@
 header {
     background-color: rgb(113, 43, 226);
     color: rgb(240, 248, 255);
-    width: 100px;
+    width: 100px;font-family: "Fredericka the Great", serif;
+      height: 260px;
 }
 
 button {
