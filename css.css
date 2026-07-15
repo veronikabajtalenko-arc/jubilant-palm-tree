@@ -5,8 +5,13 @@
 header {
     background-color: rgb(113, 43, 226);
     color: rgb(240, 248, 255);
-    width: 100px;font-family: "Fredericka the Great", serif;
-      height: 260px; justify-content: center;align-content: center;
+    width: 100px;
+    font-family: "Fredericka the Great", serif;
+    height: 260px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 button {
@@ -15,10 +20,14 @@ button {
     width: 100px;
     border-radius: 10px;
     border: none;
-    
-    
+
+
 }
 
 strong {
     color: rgb(115, 26, 199);
+}
+
+body {
+    margin: 0;
 }
