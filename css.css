@@ -1,1 +1,8 @@
 .answer{display: none;}
+header{background-color: rgb(113, 43, 226);
+color: rgb(240, 248, 255);
+width: 100px;}
+button{background-color: rgb(113, 43, 226);
+color: rgb(240, 248, 255);
+width: 100px;}
+strong{color: #3d0d86;}
