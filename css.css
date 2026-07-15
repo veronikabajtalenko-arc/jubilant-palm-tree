@@ -5,13 +5,12 @@
 header {
     background-color: rgb(113, 43, 226);
     color: rgb(240, 248, 255);
-    width: 100px;
     font-family: "Fredericka the Great", serif;
     height: 260px;
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 }
 
 button {
@@ -31,3 +30,15 @@ strong {
 body {
     margin: 0;
 }
+
+footer {
+    background-color: rgb(113, 43, 226);
+    color: rgb(240, 248, 255);
+    font-family: "Fredericka the Great", serif;
+    height: 260px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+p{color: rgb(157, 100, 255);}
