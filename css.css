@@ -12,6 +12,13 @@ button {
     background-color: rgb(113, 43, 226);
     color: rgb(240, 248, 255);
     width: 100px;
+    border-radius: 30px;
+    border: none;
+    
+    
+}
+button :hover {
+    background-color: rgb(150, 60, 241);
 }
 
 strong {
